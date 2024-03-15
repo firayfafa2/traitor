@@ -1,4 +1,8 @@
+ HEAD
 нуизменил
+
+яизменил
+branch1
 
 .PHONY: build
 build:
