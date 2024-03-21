@@ -1,9 +1,10 @@
 # Traitor
 
 МеняюЯ
+Я поменял репозиторий
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
-Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
+Поменял Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock
